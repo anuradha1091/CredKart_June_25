@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 this is first sample file made in local.
+=======
+this is a first sample file edited in gobal.
+this is a second line.
+updated line 3
+>>>>>>> 331cd59d986ff62264a2fa680ff3d1c90b4bb6e7
